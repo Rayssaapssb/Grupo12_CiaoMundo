@@ -22,9 +22,14 @@ O objetivo principal do projeto é democratizar o acesso à informação e apoia
 **🎞️ Algumas imagens para demonstrar o sistema**
 
 <img width="1286" height="599" alt="image" src="https://github.com/user-attachments/assets/3266495b-e3f5-4586-bfb4-43fe2cee0855" />
+
 <img width="1282" height="606" alt="image" src="https://github.com/user-attachments/assets/e2437704-d9ec-44ed-847d-b89b0fc21071" />
+
 <img width="1277" height="597" alt="image" src="https://github.com/user-attachments/assets/97802b22-9227-4cfc-85c6-20b51fcfe79b" />
-<img width="920" height="631" alt="image" src="https://github.com/user-attachments/assets/a5a1d88f-342e-4cd1-a4cf-2d956bbcbd97" />
+
+<img src="https://github.com/user-attachments/assets/a5a1d88f-342e-4cd1-a4cf-2d956bbcbd97"
+     style="display:block; margin:0 auto; width:350px;" 
+     alt="image">
 
 
 
