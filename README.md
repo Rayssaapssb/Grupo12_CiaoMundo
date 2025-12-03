@@ -27,9 +27,10 @@ O objetivo principal do projeto é democratizar o acesso à informação e apoia
 
 <img width="1277" height="597" alt="image" src="https://github.com/user-attachments/assets/97802b22-9227-4cfc-85c6-20b51fcfe79b" />
 
-<img src="https://github.com/user-attachments/assets/a5a1d88f-342e-4cd1-a4cf-2d956bbcbd97"
-     style="display:block; margin:0 auto; width:350px;" 
-     alt="image">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3266495b-e3f5-4586-bfb4-43fe2cee0855" width="700">
+</p>
+
 
 
 
