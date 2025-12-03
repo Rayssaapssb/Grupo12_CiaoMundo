@@ -3,7 +3,11 @@
 **Bem-vindo(a) ao TCC CiaoMundo!**
 Aqui você encontra toda a documentação e informações referentes ao sistema desenvolvido durante o 3º ano do Ensino Médio Integrado ao Técnico em Informática para Internet, realizado na ETEC de Campo Limpo Paulista.
 
-Grupo do trabalho: Rayssa Aparecida da Silva Sousa Branco, Beatriz Souza Dias de Oliveira, Maria Clara Cardoso Cagniato, Hana Nayuki de Assis Pereira.
+Grupo do trabalho: 
+Rayssa Aparecida da Silva Sousa Branco(Back-end, Front-end, Artigo)
+Beatriz Souza Dias de Oliveira (Artigo, Front-end)
+Maria Clara Cardoso Cagniato (Front-end)
+Hana Nayuki de Assis Pereira (Front-end)
 
 Orientadoras: Thaynara Cristina Maia dos Santos e Barbara Kathellen Andrade Porfirio.
 
@@ -30,7 +34,6 @@ O objetivo principal do projeto é democratizar o acesso à informação e apoia
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3266495b-e3f5-4586-bfb4-43fe2cee0855" width="700">
 </p>
-
 
 
 
