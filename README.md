@@ -27,6 +27,7 @@ O objetivo principal do projeto é democratizar o acesso à informação e apoia
 
 
 **🖥️ Linguagens e Tecnologias Utilizadas no Website**
+
 -Frontend
 
 -HTML5
@@ -181,13 +182,13 @@ Para o Candidato:
 -Protótipos de média fidelidade
 
 
-**🎯 Resultados**
+**Resultados**
 
 Com base nas análises dos questionários mais de 97% dos alunos desejam estudar fora, os maiores medos são custo de vida, moradia e idioma, 89% querem uma calculadora de custos.
 
 A maioria nunca usou plataformas de bolsas, redes sociais são o meio mais usado para informações, mas confusas. O sistema CiaoMundo resolve esses problemas ao oferecer centralização, filtros eficientes, notificações e recursos interativos úteis.
 
-**🎓 Considerações Finais**
+**Considerações Finais**
 
 O CiaoMundo demonstra como soluções tecnológicas podem democratizar o acesso ao ensino superior internacional. A plataforma organiza e simplifica informações importantes, reduz barreiras e incentiva jovens brasileiros a buscarem oportunidades no exterior.
 
